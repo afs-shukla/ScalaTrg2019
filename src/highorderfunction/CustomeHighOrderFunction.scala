@@ -1,0 +1,5 @@
+package highorderfunction
+
+class CustomeHighOrderFunction {
+
+}
